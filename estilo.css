@@ -1,0 +1,57 @@
+body{
+	background-color:indianred;
+}
+.contenedor{
+	width: 960px;
+	margin: 0 auto;
+}
+.menu-lista{
+	font-size:60px;
+list-style-type: none;
+margin: 0;
+padding: 0;
+}
+.menu-item{
+display: inline-block;
+}
+.menu-link{
+padding: 10px;
+border-radius: 10px
+}
+nav{
+	text-align: center;
+}
+.menu-link{
+	font-size: 18px;
+	background: indianred;
+	color: black;
+	text-decoration: none;
+}
+.menu-link:hover{
+text-decoration: underline;
+box-shadow: 5px 5px 15px black;
+transition: 0.5s;
+}
+.slider{
+	margin-top: 50px;
+}
+h1{
+   text-align: center;
+	font-size: 60px;
+	color: greenyellow;
+
+
+
+}
+ul li a{
+	background:yellow;
+	width:60px;
+	height:70px;
+	font-family:cursive;
+
+}
+p{
+
+	font-size:35px;
+
+}
