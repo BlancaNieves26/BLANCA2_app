@@ -1,0 +1,13 @@
+{
+  "name": "BLANCA2_app",
+  "scripts": {
+  },
+  "env": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
